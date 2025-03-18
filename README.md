@@ -7,7 +7,7 @@ The USA Airlines Delay Dashboard provides an interactive visualization of airlin
 
 🔗 Live Demo: [USA Airlines Delay Dashboard](https://usa-airlines-delay-dashboard.streamlit.app/)
 
- 🎯 Key Features
+ 🎯 Key Features  
 ✅ Interactive Filters – Filter by airline and airport to customize insights  
 ✅ Top 10 Worst Airports & Airlines – Identify the biggest delay contributors  
 ✅ Average Delay Time – Visualize airlines with the longest delays  
@@ -49,7 +49,7 @@ The dashboard is hosted on Streamlit Cloud for easy access. To deploy on your ow
 2. Sign up on [Streamlit Cloud](https://share.streamlit.io/)
 3. Deploy your GitHub repository
 
- 📩 Connect With Me
+ 📩 Connect With Me  
 👤 Somendra  
 📧 [Email](mailto:ssingh77@stevens.edu)  
 🔗 [LinkedIn](https://www.linkedin.com/in/somendra-singh05/)  
