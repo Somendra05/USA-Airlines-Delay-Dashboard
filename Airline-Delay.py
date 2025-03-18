@@ -29,7 +29,7 @@ st.markdown("<h3 style='text-align: center; color: lightgray;'>US Airline delay 
 # ---- LOAD DATA FROM CSV ----
 @st.cache_data
 def load_data():
-    return pd.read_csv("/Users/som/Downloads/Datasets/Airline_Delay_Cause_Final/Airline_Delay_Cause.csv")
+    return pd.read_csv("Airline_Delay_Cause.csv")
 
 df = load_data()
 
